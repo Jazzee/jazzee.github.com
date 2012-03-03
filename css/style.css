@@ -1,0 +1,57 @@
+html{
+  background-image: url(../images/background.jpg);
+  background-repeat: repeat;
+}
+#doc2{
+  background-image: none;
+  background-color: white;
+  padding: 2em;
+  color: #1e0f0f;
+}
+#hd{
+  text-align: right;
+  padding-right: 25%;
+  margin-bottom: 3em;
+}
+#nav{
+  padding-top: 2em;
+}
+#nav ul, #nav li{
+  list-style-type: none;
+}
+#nav a, #nav a:active, #nav a:visited{
+  text-decoration: none;
+  color: #000000;
+  font-size: 123.1%;
+}
+#nav a:hover{
+  color: #aa0000;
+}
+h1,h2,h3,h4,h5{
+  color: #aa0000;
+}
+h1{
+  font-size: 174%;
+}
+h2{
+  font-size: 153.9%;
+}
+h3{
+  font-size: 138.5%;
+}
+h4{
+  font-size: 123.1%;
+}
+h5{
+  font-size: 108%;
+}
+#bd ul li, #bd ol li{
+  margin-left: 2em;
+}
+#bd p{
+  margin-bottom: 1em;
+}
+img.wrap{
+  float: left;
+  margin-right: 1em;
+}
