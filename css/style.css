@@ -55,3 +55,10 @@ img.wrap{
   float: left;
   margin-right: 1em;
 }
+pre {
+        border:1px dashed #E1E1E1;
+        background:#FAFAFA;
+        font-family:monospace;
+        overflow:auto;
+        padding:0.5em;
+}
